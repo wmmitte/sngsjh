@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "sngs",
+    "packageName": "sotec.sngs",
+    "packageFolder": "sotec/sngs",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "ZDFiNTc3OWI1Y2ZjZDU4NjA3ODQ1YmNlNDc1YjE0NWIzZjUwOWJiM2MxMzM3ZTQ3NDdmZDg5MTE0Yzk5OGE1M2QzOWYzNDQ3MDkxOThjYWFmYmJhMDhkOGQwMzlmMzI1OWFkOThkOWVmMTNkNWQxY2Q0ZGRjOGZmYzY3NTdjYTE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "wmmitte",
+  "repository-name": "sngsjh"
+}
